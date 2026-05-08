@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+pretty_midi
+music21
+mido
+matplotlib
+seaborn
+scikit-learn
+tqdm
+pandas
+scipy
+librosa
+ipython
+jupyter
