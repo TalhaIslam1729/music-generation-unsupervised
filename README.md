@@ -14,7 +14,7 @@ This repository implements four progressive models for unsupervised music genera
 
 ```bash
 
-git clone <your-repo-url>
+git clone https://github.com/TalhaIslam1729/music-generation-unsupervised.git
 cd music-generation-unsupervised
 pip install -r requirements.txt
 
