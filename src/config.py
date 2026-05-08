@@ -54,7 +54,7 @@ ae_hidden_dim= 256
 ae_latent_dim= 64
 ae_num_layers= 2
 ae_dropout= 0.3
-ae_epochs= 50
+ae_epochs= 40
 ae_batch_size= 64
 ae_lr= 0.001
 
@@ -63,7 +63,7 @@ vae_hidden_dim= 256
 vae_latent_dim= 128
 vae_num_layers= 2
 vae_beta= 1.0           
-vae_epochs= 80
+vae_epochs= 40
 vae_batch_size= 64
 vae_lr= 0.001
 
@@ -74,7 +74,7 @@ tf_num_layers= 6
 tf_d_ff= 1024
 tf_dropout= 0.1
 tf_max_seq_len= 512
-tf_epochs= 100
+tf_epochs= 30
 tf_batch_size= 32
 tf_lr= 0.001
 
